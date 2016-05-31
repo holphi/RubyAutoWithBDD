@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STREAMS type="DASH">
+    <StreamDetails>
+        <title>Video clip missing</title>
+        <tag>Project:Gravity | Accessibility:Descriptive Video Service, Enhanced Dialog | Sound:5.1ch (Dolby AC-4) | Presentation:3 | Loop:Enable</tag>
+        <type ad-support="false">movie</type>
+        <url>./media/missing_content.mp4</url>
+        <Description></Description>
+        <AudioInfo>
+            <Track bitrate="96" channel-config="5.1" codec="AC-4" content-type="complete-main" language="English, Español, 普通话" sampling-rate="48000" type="main"/>
+        </AudioInfo>
+        <VideoInfo>
+            <Track bitrate="5000" codec="h.264" max-height="720" max-width="1280"/>
+        </VideoInfo>
+        <duration>03:00</duration>
+        <img>./images/nba.jpg</img>
+    </StreamDetails>
+</STREAMS>
